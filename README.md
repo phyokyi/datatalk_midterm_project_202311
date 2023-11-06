@@ -33,3 +33,6 @@ curl -X POST -H "Content-Type: application/json" -d '{"kidhome": 0, "education_p
 
 ### Sample curl request for result "complain"
 curl -X POST -H "Content-Type: application/json" -d '{"kidhome": 0, "education_phd": 1, "education_2n_cycle": 0, "education_graduation": 0, "mntwines": 10, "mntgoldprods": 10, "year_birth": 1990, "income": 40000}' https://public_url/predict
+
+## Working Screenshot
+![image](https://github.com/phyokyi/datatalk_midterm_project_202311/assets/12389166/ab535356-1d2a-4947-8e15-67ba5bffe968)
